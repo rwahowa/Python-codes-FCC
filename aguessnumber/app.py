@@ -1,3 +1,4 @@
+# Guess a number game. It has to be the number, the computer is holding in memory
 import random
 
 def guess_number(x):
@@ -12,5 +13,5 @@ def guess_number(x):
             print(f"Your guess ({guess}) is higher. Try again")
 
     print(f"Your guess of {random_number} is correct")       
-guess_number(10)
+guess_number(random.randint(10,35))
 
