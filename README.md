@@ -1,6 +1,6 @@
 # Python projects follow along
 
-[Youtube Source](https://youtu.be/8ext9G7xspg)
+[Youtube Source](https://www.youtube.com/@freecodecamp)
 
 ## Create virtual env for your projects
 
