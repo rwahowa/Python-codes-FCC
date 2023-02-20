@@ -11,3 +11,5 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 ```
+
+The different projects will be housed in different directories. Go into any folder to learn more about each project. **More projects will be added soon**
