@@ -12,7 +12,7 @@ dist/
 build/
 
 # Env
-venv/
+env/
 
 # IDEs and editors
 .idea/
