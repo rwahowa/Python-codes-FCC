@@ -21,6 +21,7 @@ alias py=python3
 
 ```
 
+*`Nano Tip:`* - Press `CTRL + End` to go to the end of the file
 If using zsh, you should edit zshrc file.
 
 The different projects will be housed in different directories. Go into any folder to learn more about each project. **More projects will be added soon**
