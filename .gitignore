@@ -1,2 +1,5 @@
 # Ignore env in child folders
 **/env
+
+# Ignore any other folders
+**/data
