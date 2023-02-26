@@ -1,1 +1,3 @@
-aguessnumber/env/
+/env/
+# Ignore env in child folders
+**/env
